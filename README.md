@@ -11,3 +11,7 @@
 - 🖥 Operating Systems: Linux, Android
 - 📜 Version Control: Github
 - 🛠 Tools: Visual Studio, VS Code, Android Studio
+
+Connect with me 🌐
+GitHub: Sanika-bhor
+LinkedIn: sanikabhor
