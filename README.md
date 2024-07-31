@@ -1,4 +1,4 @@
-## Hello, I'm Sanika 😊
+## Hello, I'm Sanika 😇
 - 👋 Welcome to my tech journey.
 - 🛠 Learning FullStack Development.
 - 🌱 Always curious about new technology.
