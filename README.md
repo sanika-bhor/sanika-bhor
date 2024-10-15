@@ -3,7 +3,7 @@
 - 🛠 Learning FullStack Development.
 - 🌱 Always curious about new technology.
 - 💻 Passionate about coding and learning.
-- 🎓 Studying Information Technology.
+- 🎓 Studying Computer Engineering.
 
 ## 💻 Skills
 - 🌐 Languages: C, C++, Java, JavaScript, Php, HTML, CSS,Android
