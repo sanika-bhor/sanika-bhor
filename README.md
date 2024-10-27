@@ -22,9 +22,7 @@
 
   <img src="https://visitcount.itsvg.in/api?id=sanika-bhor&label=Profile%20Views&color=11&icon=5&pretty=true" width="200" height="35" />
 
-
-
-## 📊 Most Used Languages 
+## 👀 Most Used Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanika-bhor&layout=compact)
 
 
