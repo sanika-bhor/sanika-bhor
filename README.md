@@ -23,5 +23,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanika-bhor&layout=compact)
 
 ## 🌐 Connect with me 
-<a href="https://www.linkedin.com/in/sanikabhor"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="80" height="80" ></a>  <a href="https://github.com/sanika-bhor"><img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU=w240-h480-rw" width="80" height="80" ></a>
+<a href="https://www.linkedin.com/in/sanikabhor"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="80" height="80" ></a>  <a href="https://github.com/sanika-bhor"><img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU=w240-h480-rw" width="80" height="80" >
+<a href="https://leetcode.com/u/bhorsanika0239/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfPAiDdsvK7TSLeU9QFNSYG_q4T9hTlMk4PVHuIzHTKay0Lf13uyWqPovdJW7jQvS3-LA&usqp=CAU" width="80" height="80"></a>
 
