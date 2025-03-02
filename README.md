@@ -6,7 +6,7 @@
 - 🎓 Studying Computer Engineering.
 
 ## 💻 Skills
-- 🌐 Languages: C, C++, Java, JavaScript, Php, HTML, CSS,Android, c#
+- 🌐 Languages: C, C++, Java, JavaScript, Php, HTML, CSS,Android, c#, , ASP.NET
 - ⚙ Databases: MySQL, SQL Server, Oracle, Jdbc,MongoDb
 - 🔗Runtime: NodeJs, ReactJs
 - 🖥 Operating Systems: Window,Linux, Android
