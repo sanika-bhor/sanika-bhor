@@ -6,17 +6,20 @@
 
 
 <details>
- <summary>📌 <strong> About Me</strong></summary>
+  <summary>📌 Click to know me better!</summary>
 
 ```yaml
 Name: Sanika Sudam Bhor
-Status: Third-year Computer Engineering Student
-Focus: .NET, MERN Stack, Backend Dev, API Design, 
-Hobbies:
-  - Exploring new tech 🧪
-  - Building apps 🔧
-  - Writing clean & scalable code ✨
-
+Role: Aspiring Full Stack Developer 👩‍💻
+Education: Third-year Computer Engineering Student
+Focus Areas:
+  - MERN Stack, .NET Backend
+  - API Design, Scalable Systems
+  - Real-time Apps, Databases
+Passions:
+  - Coding & Problem Solving 🧠
+  - Exploring New Technologies 🔍
+  - Building Impactful Projects 🛠
 ```
 </details>
 
