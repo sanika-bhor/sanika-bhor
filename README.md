@@ -48,9 +48,9 @@ Hobbies:
 ```text
 2021: 🌱 Started my tech journey (Diploma days)
 2022: 🛠 Built mini projects in Java, C++
-2023: 💡 Learned React & Node, started web apps
+2023: 💡 Learned React & .NET, started web apps
 2024: 🚀 Real-time apps, internships, team collab
-2025: 🎯 On the path to becoming a FullStack Dev
+2025: 🎯 On the path to becoming a FullStack Developer 
 ````
 ## 🌐 Connect with me 
 <a href="https://www.linkedin.com/in/sanikabhor"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="80" height="80" ></a>  <a href="https://github.com/sanika-bhor"><img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU=w240-h480-rw" width="80" height="80" >
