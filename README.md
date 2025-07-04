@@ -31,7 +31,6 @@ Passions:
 - 🖥 Operating Systems: Window,Linux, Android
 - 📜 Version Control: Github
 - 🛠 Tools: Visual Studio, VS Code, Android Studio,PostMan
-- 
 <br>
 
 
