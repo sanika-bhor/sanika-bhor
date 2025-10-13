@@ -25,7 +25,7 @@ Passions:
 
 ---
 ## 💻 Skills
-- 🌐 Languages: C, C++, Java, JavaScript, Php, HTML, CSS,Android, c#, , ASP.NET
+- 🌐 Languages: C, C++, Java, JavaScript, Php, HTML, CSS,Android, c#, , ASP.NET, Ad. Java
 - ⚙ Databases: MySQL, SQL Server, Oracle, Jdbc,MongoDb
 - 🔗Runtime: NodeJs, ReactJs
 - 🖥 Operating Systems: Window,Linux, Android
