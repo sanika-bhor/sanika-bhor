@@ -44,6 +44,9 @@ Passions:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanika-bhor&layout=compact)
 
 
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanika-bhor&theme=github-dark&hide_border=true)
 
 ## 📈 My Coding Timeline
 
