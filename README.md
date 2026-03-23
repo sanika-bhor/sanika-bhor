@@ -29,7 +29,7 @@ Passions:
 - ⚙ Databases: MySQL, SQL Server, Oracle, Jdbc,MongoDb
 - 🔗Runtime: NodeJs, ReactJs
 - 🖥 Operating Systems: Window,Linux, Android
-- 📜 Version Control: Github
+- 📜 Version Control: Github, Git
 - 🛠 Tools: Visual Studio, VS Code, Android Studio,PostMan
 <br>
 
